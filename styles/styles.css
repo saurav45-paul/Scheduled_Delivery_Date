@@ -1,0 +1,28 @@
+/* Home page CSS */
+.homepage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  height: 100%;
+  width: 40%;
+  align-content: center;
+}
+
+.add_project {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  height: 100%;
+  width: 50%;
+}
+
+.view_projects {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 60%;
+  height: 100%;
+}
